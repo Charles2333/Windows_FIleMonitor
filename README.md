@@ -18,5 +18,6 @@ Windows文件监控和MD5校验工具是一种实用程序，用于监视Windows
 ### 其他功能
 
 - 待定.....
+![Windows_FIleMonitor](https://github.com/Charles2333/Windows_FIleMonitor/raw/main/Windows_FIleMonitor.png)
 
-(https://github.com/Charles2333/Windows_FIleMonitor/raw/main/Windows_FIleMonitor.png)
+
